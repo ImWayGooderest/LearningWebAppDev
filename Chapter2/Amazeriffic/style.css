@@ -16,7 +16,7 @@ header {
   overflow: auto;
 }
 
-header h1 {
+h1 {
   float: left;
   width: 570px;
   font-family: 'Merriweather', serif;
@@ -41,7 +41,7 @@ main .question {
 }
 
 
-main h2 {
+h2 {
   font-size: 125%;
 }
 
@@ -69,13 +69,6 @@ label, .textbox {
   display: inline-block;
   vertical-align: baseline;
   width: 125px;
-}
-
-
-form, .textbox {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
 }
 
 form {
